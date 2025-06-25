@@ -46,16 +46,10 @@ I’m **Md. Mustakim**, a student and passionate web developer from Bangladesh. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Contribution + Repo Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mustakim67&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustakim67&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <!-- Contribution Streak -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?username=mustakim67&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
 
 ---
 
