@@ -40,7 +40,6 @@ I’m **Md. Mustakim**, a student and passionate web developer from Bangladesh. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustakim.dev01@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
 
 ---
 
