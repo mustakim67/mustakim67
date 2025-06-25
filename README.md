@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](mern-banner.png)
+![Banner](mern-stack.png)
 <h1 align="center">Hi, I'm Md. Mustakim 👋</h1>
 <h3 align="center">MERN-Stack Web Developer | Learner | Explorer</h3>
 
