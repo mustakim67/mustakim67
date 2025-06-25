@@ -1,6 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/HDgnp2YF/MERN-Stack-Developer-Banner-Design.png)
-
+![Banner](mern-banner.png)
 <h1 align="center">Hi, I'm Md. Mustakim 👋</h1>
 <h3 align="center">MERN-Stack Web Developer | Learner | Explorer</h3>
 
