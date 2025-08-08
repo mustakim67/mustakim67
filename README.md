@@ -19,8 +19,10 @@ I’m **Md. Mustakim**, a student and passionate web developer from Bangladesh. 
 
 ## 📌 Current Activities
 
-- 🚀 I am exploring **Next.js**.
-- 🌏 I’m working on a **Non Government College Website Project**.
+- 🚀 I am exploring Next.js.
+- 🌏 I’m working on a Non Government College Website Project.
+- ⚙️ Improving my skills in performance optimization and code refactoring.
+- 📚 Learning advanced concepts in competitive programming and algorithms.
 
 ---
 
