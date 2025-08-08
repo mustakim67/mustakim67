@@ -17,6 +17,13 @@ I’m **Md. Mustakim**, a student and passionate web developer from Bangladesh. 
 
 ---
 
+## 📌 Current Activities
+
+- 🚀 I am exploring **Next.js**.
+- 🌏 I’m working on a **Non Government College Website Project**.
+
+---
+
 ## 🚀 Skills & Tools
 
 <p align="left">
@@ -37,8 +44,8 @@ I’m **Md. Mustakim**, a student and passionate web developer from Bangladesh. 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mustakim-04601b203)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/md.mustakim.928030)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustakim67)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustakim67)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustakim.dev01@gmail.com)
 
 ---
@@ -55,9 +62,6 @@ I’m **Md. Mustakim**, a student and passionate web developer from Bangladesh. 
 
 </div>
 
-
-
 ---
 
 ⚡ **Fun fact**: I love debugging more than writing new code!
-
